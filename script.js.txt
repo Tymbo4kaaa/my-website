@@ -1,0 +1,3 @@
+function showPortfolioMessage() {
+    alert("Портфолио скоро будет доступно!");
+}
